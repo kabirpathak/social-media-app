@@ -14,3 +14,5 @@ A social media platform with all of the cool features like messaging, post-shari
 (10th Sep 2021)
 - Created app with postgres database. ( remember to run db:create before running the server!).
 - Added a pages controller and initialized the root path.
+- Added bootstrap and jquery. (the require_self and require_tree . lines were removed. This makes it possible for us to manage the order in which scss files are rendered.)
+- Added responsive navigation bar.
